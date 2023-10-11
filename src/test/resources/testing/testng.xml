@@ -5,6 +5,8 @@
 <test name="Bolshakov test">
     <classes>
         <class name="Home_work_9.Bolshakov_HW_9"/>
+        <class name="Home_work_9.Bolshakov_HW_12"/>
+        <class name="Home_work_9.Bolshakov_HW_12_part2"/>
     </classes>
 </test>
 </suite>
